@@ -32,7 +32,7 @@ The Cactus Mod is licensed under the **All Rights Reserved (ARR)** license. Feel
 
 Thank you for visiting our GitHub page! We hope you enjoy using Cactus Mod as much as we enjoy developing it. 🌵
 
-<img src="https://cactusmod.xyz/static/team_cover.webp">
+<img src="https://cactusmod.xyz/static/cactus_webteam2.webp">
 
 > [!TIP]
 > If you want to see an overview over the entire team, check out our [Team Page](https://cactusmod.xyz/team). Over there you can also see who does what and find specific contacts.
